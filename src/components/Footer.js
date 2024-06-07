@@ -95,7 +95,7 @@ export default function Footer() {
               </Link>
             </div>
           </div>
-          <div><h5>Copyright ©2024 Website. All rights reserved</h5></div>
+          <div><h5>Copyright ©2024 CRC (Centralized Refund System). All rights reserved</h5></div>
         </div>
       </div>
     </div>
